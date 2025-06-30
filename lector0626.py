@@ -91,3 +91,5 @@ while True:
         case '5':
             print("programa sustabdyta")
             break
+
+            ##ad##

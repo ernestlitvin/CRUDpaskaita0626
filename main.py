@@ -90,3 +90,5 @@ while True:
         case "5":
             print("Sustabdyti")
             break
+
+#asd##
